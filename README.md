@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome! 
 
-<!--
-**vitorpadovan/vitorpadovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Vitor Hugo Padovan Hernandes! 
 
-Here are some ideas to get you started:
+:computer: I'm FullStacker Developer! I like Java, C#, Flutter and Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:house_with_garden: I’m from Ribeirão Preto, São Paulo, Brazil.
+
+:books: I’m currently learning more Flutter, Angular and Java Spring.
+
+
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/vitorpadovan/vitorpadovan)
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vhpadovan/)
+
+- Thanks for visiting.
+- Enjoy it!! o/
+
+## References I use
+- [Alura](https://www.alura.com.br/)
+- [Udemy](https://www.udemy.com/)
+- [6 passos para criar um README bonitão de perfil no GitHub!!](https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github)
