@@ -9,7 +9,6 @@
 :books: I’m currently learning more Flutter, Angular and Java Spring.
 
 
-
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/vitorpadovan/vitorpadovan)
@@ -18,6 +17,14 @@
 
 - Thanks for visiting.
 - Enjoy it!! o/
+
+<div align="center">
+  <a href="https://github.com/vitorpadovan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpadovan&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpadovan&layout=compact&langs_count=10&theme=omni"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpadovan&border=true&theme=omni" />
+</div>
+
 
 ## References I use
 - [Alura](https://www.alura.com.br/)
