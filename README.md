@@ -30,3 +30,7 @@
 - [Alura](https://www.alura.com.br/)
 - [Udemy](https://www.udemy.com/)
 - [6 passos para criar um README bonitão de perfil no GitHub!!](https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github)
+
+## My bookmarks
+- [Validate Request Body and Parameter in Spring Boot](https://blog.tericcabrel.com/validate-request-body-and-parameter-in-spring-boot/)
+- [Lombok: Mais produtividade e menos código boilerplate em classes Java](https://youtu.be/DMBvVfeSg4o)
