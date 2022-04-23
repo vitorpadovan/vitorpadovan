@@ -36,3 +36,4 @@
 - [Lombok: Mais produtividade e menos código boilerplate em classes Java](https://youtu.be/DMBvVfeSg4o)
 - [Lombok and JPA: What may go wrong?](https://www.jpa-buddy.com/blog/lombok-and-jpa-what-may-go-wrong/)
 - [Spring Boot – Loading Initial Data](https://javabydeveloper.com/spring-boot-loading-initial-data/)
+- [Quick Guide on Loading Initial](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
