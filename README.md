@@ -39,3 +39,8 @@
 - [Quick Guide on Loading Initial](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 - [JReleaser]
 (https://jreleaser.org/)
+
+## To Studie
+- [Flutter + Android Wear](https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4)
+- [Wear Package](https://pub.dev/packages/wear)
+- [Get Stared Android Wear](https://developer.android.com/training/wearables/get-started/creating)
