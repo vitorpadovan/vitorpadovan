@@ -1,13 +1,12 @@
-# Welcome! 
+# Welcome!
 
-## I'm Vitor Hugo Padovan Hernandes! 
+## I'm Vitor Hugo Padovan Hernandes!
 
 :computer: I'm FullStacker Developer! I like Java, C#, Flutter and Angular
 
 :house_with_garden: I’m from Ribeirão Preto, São Paulo, Brazil.
 
 :books: I’m currently learning more Flutter, Angular and Java Spring.
-
 
 ## About me
 
@@ -25,22 +24,35 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpadovan&border=true&theme=omni" />
 </div>
 
-
 ## References I use
+
 - [Alura](https://www.alura.com.br/)
 - [Udemy](https://www.udemy.com/)
 - [6 passos para criar um README bonitão de perfil no GitHub!!](https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github)
 
 ## My bookmarks
+
 - [Validate Request Body and Parameter in Spring Boot](https://blog.tericcabrel.com/validate-request-body-and-parameter-in-spring-boot/)
 - [Lombok: Mais produtividade e menos código boilerplate em classes Java](https://youtu.be/DMBvVfeSg4o)
 - [Lombok and JPA: What may go wrong?](https://www.jpa-buddy.com/blog/lombok-and-jpa-what-may-go-wrong/)
 - [Spring Boot – Loading Initial Data](https://javabydeveloper.com/spring-boot-loading-initial-data/)
 - [Quick Guide on Loading Initial](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 - [JReleaser]
-(https://jreleaser.org/)
+  (https://jreleaser.org/)
 
 ## To Studie
+
 - [Flutter + Android Wear](https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4)
 - [Wear Package](https://pub.dev/packages/wear)
 - [Get Stared Android Wear](https://developer.android.com/training/wearables/get-started/creating)
+
+## To Explore Better
+
+- [Codecov](https://app.codecov.io/)
+- [Sonar](https://www.sonarqube.org/)
+- [Sentry](https://sentry.io/)
+- [GPRM](https://gprm.itsvg.in/)
+
+## VSCode Extensions
+
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
