@@ -52,7 +52,31 @@
 - [Sonar](https://www.sonarqube.org/)
 - [Sentry](https://sentry.io/)
 - [GPRM](https://gprm.itsvg.in/)
+- [Blackbox AI](https://www.useblackbox.io/)
+- [Javascript Chalenge](https://www.jschallenger.com/)
+- [Javascript Questions](https://github.com/lydiahallie/javascript-questions)
+- [History Of Everything App Flutter](https://github.com/2d-inc/HistoryOfEverything)
+- [PageSpeed](https://pagespeed.web.dev/)
+- [Scratch](https://scratch.mit.edu/)
+- [Frontend mentor](https://www.frontendmentor.io/)
+- [Codewars](https://www.codewars.com)
+- [DIO](https://www.dio.me/)
+- [Animated Backgrounds](https://animatedbackgrounds.me/)
+- [Netlify](https://www.netlify.com/)
+- [Clarity](https://clarity.microsoft.com/)
+- [React Native Paper](https://callstack.github.io/react-native-paper/)
+- [Nativebase](https://nativebase.io/)
+- [UI Kitten 5.1](https://akveo.github.io/react-native-ui-kitten/)
+- [mintlify](https://writer.mintlify.com/)
+- [Transition.CSS](https://www.transition.style/)
 
 ## VSCode Extensions
 
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [Incredibly In Your Face](https://marketplace.visualstudio.com/items?itemName=VirejDasani.incredibly-in-your-face)
+- [Mintlify Doc Writer](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
+
+## Terms to explore.
+
+- Emmet abreviation
+- React Query
