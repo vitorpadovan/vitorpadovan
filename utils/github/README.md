@@ -8,4 +8,4 @@
 
 ## Links
 
-[](https://www.baeldung.com/git-assume-unchanged-skip-worktree)
+[Difference Between assume-unchanged and skip-worktree in Git](https://www.baeldung.com/git-assume-unchanged-skip-worktree)
