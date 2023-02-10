@@ -22,10 +22,9 @@
 
 ## Repositórios
 
-| Repositório                                                                       | Descrição                              |
-| --------------------------------------------------------------------------------- | -------------------------------------- |
-| [Guia rápido do WSL2 + Docker](https://github.com/codeedu/wsl2-docker-quickstart) | Link para instalar WSL2 no Windows     |
-| [Instalação Docker Engine](https://www.youtube.com/watch?v=wpdcGgRY5kk)           | Instalaçao do Docker Engine no Windows |
+| Repositório                                                                       | Descrição                          |
+| --------------------------------------------------------------------------------- | ---------------------------------- |
+| [Guia rápido do WSL2 + Docker](https://github.com/codeedu/wsl2-docker-quickstart) | Link para instalar WSL2 no Windows |
 
 ## Anotações
 
@@ -35,3 +34,9 @@
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
+
+## Links
+
+| Link                                                                    | Descrição                              |
+| ----------------------------------------------------------------------- | -------------------------------------- |
+| [Instalação Docker Engine](https://www.youtube.com/watch?v=wpdcGgRY5kk) | Instalaçao do Docker Engine no Windows |
