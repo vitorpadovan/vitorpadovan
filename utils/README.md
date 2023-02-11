@@ -13,6 +13,7 @@
 
 ## My bookmarks
 
+- [SSI Linkedin](https://www.linkedin.com/sales/ssi)
 - [Validate Request Body and Parameter in Spring Boot](https://blog.tericcabrel.com/validate-request-body-and-parameter-in-spring-boot/)
 - [Lombok: Mais produtividade e menos código boilerplate em classes Java](https://youtu.be/DMBvVfeSg4o)
 - [Lombok and JPA: What may go wrong?](https://www.jpa-buddy.com/blog/lombok-and-jpa-what-may-go-wrong/)
