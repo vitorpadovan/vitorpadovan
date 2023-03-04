@@ -83,3 +83,4 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 | Link                                                                    | Descrição                              |
 | ----------------------------------------------------------------------- | -------------------------------------- |
 | [Instalação Docker Engine](https://www.youtube.com/watch?v=wpdcGgRY5kk) | Instalaçao do Docker Engine no Windows |
+| [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes) | Tutoriais |
