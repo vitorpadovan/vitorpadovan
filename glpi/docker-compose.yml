@@ -1,0 +1,25 @@
+version: '3.3'
+services:
+  glpiservice:
+    build: .
+    container_name: glpi_site
+    depends_on:
+      mysqlsrv:
+        condition: service_healthy
+    ports:
+      - '80:80'
+  mysqlsrv:
+    image: 'mysql:5.7.41-debian'
+    container_name: glpi_db
+    ports:
+      - '3306:3306'
+    environment:
+      - 'MYSQL_ROOT_PASSWORD=123'
+      - 'MYSQL_DATABASE=vitor237'
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-h", "localhost" ]
+      interval: 5s
+      timeout: 10s
+      retries: 15
+    volumes:
+      - '/home/vitorpadovan/glpidata:/var/lib/mysql'
