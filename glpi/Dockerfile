@@ -8,6 +8,10 @@ RUN apt-get install gettext -y
 RUN apt-get install zip -y
 RUN apt-get install git -y
 RUN apt-get install nodejs -y
+RUN apt-get install libapache2-mod-php5 -y
+RUN apt-get install -y unzip 
+RUN apt-get install -y bzip2 
+RUN apt-get install -y unrar-free 
 # RUN apt-get install npm -y
 RUN apt-get update && \
     apt-get install -y \
@@ -19,10 +23,20 @@ RUN docker-php-ext-install gd
 # RUN docker-php-ext-install zip
 # RUN docker-php-ext-install mbstring
 RUN docker-php-ext-install mysqli
+RUN docker-php-ext-install cli 
+RUN docker-php-ext-install gd 
+RUN docker-php-ext-install imap 
+RUN docker-php-ext-install ldap 
+RUN docker-php-ext-install mysql 
+RUN docker-php-ext-install xmlrpc 
+RUN docker-php-ext-install snmp 
+RUN docker-php-ext-install curl
+RUN docker-php-ext-install soap 
 RUN git clone https://github.com/glpi-project/glpi.git .
 RUN npm update -g npm
 RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 RUN php composer-setup.php
 RUN mv composer.phar /usr/local/bin/composer
+
 RUN php /var/www/html/bin/console dependencies install
 RUN php /var/www/html/bin/console locales:compile
