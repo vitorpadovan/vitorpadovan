@@ -6,6 +6,9 @@ services:
     depends_on:
       mysqlsrv:
         condition: service_healthy
+    environment:
+      - GLPI_VAR_DIR=/var/glpi
+      - GLPI_CONFIG_DIR=/var/config
     ports:
       - '80:80'
   mysqlsrv:
