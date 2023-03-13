@@ -1,5 +1,11 @@
 # Libs Úteis
 
+## Aplicações de terceiros
+
+| Nome                              | Finalidade               |
+| --------------------------------- | ------------------------ |
+| [Twilio](https://www.twilio.com/) | API para mandar Whatsapp |
+
 ## C#
 
 | Nome                                      | Finalidade                    |
