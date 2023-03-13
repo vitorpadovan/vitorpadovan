@@ -10,7 +10,7 @@ services:
       - GLPI_VAR_DIR=/var/glpi
       - GLPI_CONFIG_DIR=/var/config
     ports:
-      - '80:80'
+      - '91:80'
   mysqlsrv:
     image: 'mysql:5.7.41-debian'
     container_name: glpi_db
