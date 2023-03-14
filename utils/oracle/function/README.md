@@ -38,3 +38,5 @@ END;
 SELECT *
   FROM table(test.get_ups(0));
 ```
+
+[Create an Oracle function that returns a table](https://stackoverflow.com/questions/2829880/create-an-oracle-function-that-returns-a-table)
