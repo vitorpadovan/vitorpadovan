@@ -53,6 +53,8 @@
 - [UI Kitten 5.1](https://akveo.github.io/react-native-ui-kitten/)
 - [mintlify](https://writer.mintlify.com/)
 - [Transition.CSS](https://www.transition.style/)
+- [Commons BeanUtils](https://commons.apache.org/proper/commons-beanutils/)
+- [Best way to update multiple fields of a Java object](https://stackoverflow.com/questions/8512214/best-way-to-update-multiple-fields-of-a-java-object)
 
 ## VSCode Extensions
 
