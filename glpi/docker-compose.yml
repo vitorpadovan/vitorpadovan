@@ -7,10 +7,10 @@ services:
       mysqlsrv:
         condition: service_healthy
     environment:
-      - GLPI_VAR_DIR=/var/glpi
-      - GLPI_CONFIG_DIR=/var/config
+      - GLPI_VAR_DIR=/glpi/glpi
+      - GLPI_CONFIG_DIR=/glpi/config
     ports:
-      - '91:80'
+      - '80:80'
   mysqlsrv:
     image: 'mysql:5.7.41-debian'
     container_name: glpi_db
@@ -26,3 +26,4 @@ services:
       retries: 15
     volumes:
       - '/home/vitorpadovan/glpidata:/var/lib/mysql'
+      - '/home/vitorpadovan/glpifiles:/glpi'

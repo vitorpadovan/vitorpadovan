@@ -46,9 +46,22 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 RUN php composer-setup.php
 RUN mv composer.phar /usr/local/bin/composer
 RUN chown www-data:www-data /var/www/html -R
-RUN mkdir /var/glpi
-RUN mkdir /var/config
-RUN chown www-data:www-data /var/glpi -R
-RUN chown www-data:www-data /var/config -R
 RUN php /var/www/html/bin/console dependencies install
 RUN php /var/www/html/bin/console locales:compile
+RUN mkdir /glpi -p
+RUN mkdir /glpi/glpi -p
+RUN mkdir /glpi/config -p
+RUN mkdir -p /glpi/glpi/_dumps
+RUN mkdir -p /glpi/glpi/_graphs
+RUN mkdir -p /glpi/glpi/_lock
+RUN mkdir -p /glpi/glpi/_pictures
+RUN mkdir -p /glpi/glpi/_plugins
+RUN mkdir -p /glpi/glpi/_rss
+RUN mkdir -p /glpi/glpi/_sessions
+RUN mkdir -p /glpi/glpi/_tmp
+RUN mkdir -p /glpi/glpi/_uploads
+RUN mkdir -p /glpi/glpi/_cron
+RUN chown www-data:www-data /glpi -R
+RUN chown www-data:www-data /glpi/config -R
+RUN chmod 777 /glpi -R
+
