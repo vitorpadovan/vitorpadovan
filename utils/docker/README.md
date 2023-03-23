@@ -84,6 +84,14 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 wsl --set-default-version 2
 ```
 
+3. Baixar o **Ubuntu**
+
+4. Verificar versão do WSL
+
+```sh
+wsl -l -v
+```
+
 ## Links úteis
 
 | Link                                                                                                                                                        | Descrição                              |
