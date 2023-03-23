@@ -73,14 +73,20 @@
 
 1. Instalar WSL 2
 
-```
+```sh
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
+2. Mudando para o WSL 2
+
+```sh
+wsl --set-default-version 2
+```
+
 ## Links úteis
 
-| Link                                                                    | Descrição                              |
-| ----------------------------------------------------------------------- | -------------------------------------- |
-| [Instalação Docker Engine](https://www.youtube.com/watch?v=wpdcGgRY5kk) | Instalaçao do Docker Engine no Windows |
-| [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes) | Tutoriais |
+| Link                                                                                                                                                        | Descrição                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [Instalação Docker Engine](https://www.youtube.com/watch?v=wpdcGgRY5kk)                                                                                     | Instalaçao do Docker Engine no Windows |
+| [How To Remove Docker Images, Containers, and Volumes](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes) | Tutoriais                              |
