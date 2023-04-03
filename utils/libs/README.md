@@ -22,5 +22,6 @@
 
 ## Web
 
-| Nome | Finalidade |
+| Nome                                | Finalidade               |
+| ----------------------------------- | ------------------------ |
 | [Ag-Grid](https://www.ag-grid.com/) | Lib de tabelas dinâmicas |
