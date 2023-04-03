@@ -19,3 +19,8 @@
 | Nome                      | Finalidade               |
 | ------------------------- | ------------------------ |
 | [Expo](https://expo.dev/) | Buildar aplicação mobile |
+
+## Web
+
+| Nome | Finalidade |
+| [Ag-Grid](https://www.ag-grid.com/) | Lib de tabelas dinâmicas |
