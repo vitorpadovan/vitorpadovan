@@ -1,0 +1,1 @@
+[Cut and Paste of double quoted characters from Visual Studio Code to DBeaver SQL editor removes chars between quotes](https://github.com/orgs/dbeaver/discussions/11597)
