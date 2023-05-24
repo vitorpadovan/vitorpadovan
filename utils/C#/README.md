@@ -1,0 +1,1 @@
+[How to Dynamically Register Entities in DbContext by Extending ModelBuilder?](https://blog.christian-schou.dk/how-to-dynamically-register-entities-dbcontext/amp/)
