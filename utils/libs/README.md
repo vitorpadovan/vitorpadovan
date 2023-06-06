@@ -25,3 +25,4 @@
 | Nome                                | Finalidade               |
 | ----------------------------------- | ------------------------ |
 | [Ag-Grid](https://www.ag-grid.com/) | Lib de tabelas dinâmicas |
+| [RxJs para Reac](https://react-rxjs.org/docs/getting-started) | RxJs para React |
