@@ -4,9 +4,10 @@
 | ---------------------- | ------------------------------ |
 | [Docker](docker)       | Utilidades para docker         |
 | [Github](github)       | Utilidades para github         |
-| [Oracle](Oracle)       | Utilidades para Oracle         |
+| [Oracle](oracle)       | Utilidades para Oracle         |
 | [Libs](libs)           | Libs para desenvolvimento      |
 | [Programas](programas) | Programas para desenvolvimento |
+| [GLPI](glpi) | Documentações e outros para GLPI |
 
 ## References I use
 
@@ -62,7 +63,7 @@
 - [Incredibly In Your Face](https://marketplace.visualstudio.com/items?itemName=VirejDasani.incredibly-in-your-face)
 - [Mintlify Doc Writer](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
 
-## Terms to explore.
+## Terms to explore
 
 - Emmet abreviation
 - React Query
