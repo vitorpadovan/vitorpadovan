@@ -26,3 +26,9 @@
 | ----------------------------------- | ------------------------ |
 | [Ag-Grid](https://www.ag-grid.com/) | Lib de tabelas dinâmicas |
 | [RxJs para Reac](https://react-rxjs.org/docs/getting-started) | RxJs para React |
+
+## Testes
+| ---- | ---- |
+| [Testes automátizados](https://testcafe.io/) | Teste |
+| [Matomo](https://matomo.org/) | Teste |
+
