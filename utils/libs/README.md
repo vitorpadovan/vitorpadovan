@@ -20,7 +20,7 @@
 
 | Nome                                      | Finalidade                    |
 | ----------------------------------------- | ----------------------------- |
-| [quartz](http://www.quartz-scheduler.org/) | Tarefas agendadas            |
+| [Quartz](http://www.quartz-scheduler.org/) | Tarefas agendadas            |
 
 ## Mobile
 
