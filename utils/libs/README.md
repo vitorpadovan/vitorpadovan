@@ -14,6 +14,7 @@
 | [AutoMapper](https://automapper.org/)     | Cria mapeamento entre classes |
 | [Argon](https://argon2.online/)           | Biblioteca de hash            |
 | [Hagfire](https://www.hangfire.io/)       | Tarefas agendadas             |
+| [Quartz](https://www.quartz-scheduler.net/) | Tarefas agendadas             |
 
 ## Java
 
