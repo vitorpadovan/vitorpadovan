@@ -6,7 +6,7 @@
 | --------------------------------- | ------------------------ |
 | [Twilio](https://www.twilio.com/) | API para mandar Whatsapp |
 
-## C#
+## C #
 
 | Nome                                      | Finalidade                    |
 | ----------------------------------------- | ----------------------------- |
@@ -36,7 +36,7 @@
 | [RxJs para Reac](https://react-rxjs.org/docs/getting-started) | RxJs para React |
 
 ## Testes
+
 | ---- | ---- |
 | [Testes automátizados](https://testcafe.io/) | Teste automáticos |
 | [Matomo](https://matomo.org/) | Estatisticas |
-
