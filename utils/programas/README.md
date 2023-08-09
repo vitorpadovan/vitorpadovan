@@ -6,6 +6,7 @@
 | ------------------------------------------------------------- | -------------------- |
 | [Java Decompiler](http://java-decompiler.github.io/)          | Decompilador de java |
 | [IntelliJ - JetBrains](https://www.jetbrains.com/pt-br/idea/) | IDE de Java          |
+| [ES Lint](https://dev.to/srmagura/c-linting-and-formatting-tools-in-2021-bna) | Es Lint no C# | 
 
 # Rest
 
