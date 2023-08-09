@@ -26,3 +26,10 @@
 | Nome | Finalidade |
 | --- | ---- |
 | [Doxygen](https://www.doxygen.nl/) | Documentação de API | 
+
+
+# Estatísitca Marketing CEO
+| Nome | Finalidade |
+| --- | ---- |
+| [Sem Rush](https://pt.semrush.com/) | Sem Rush |
+| [Uber Sugest](https://neilpatel.com/br/ubersuggest/) | Uber Sugest |
