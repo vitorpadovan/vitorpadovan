@@ -36,7 +36,13 @@
 | [RxJs para Reac](https://react-rxjs.org/docs/getting-started) | RxJs para React |
 
 ## Testes
-
+| Nome                                | Finalidade               |
 | ---- | ---- |
 | [Testes automátizados](https://testcafe.io/) | Teste automáticos |
 | [Matomo](https://matomo.org/) | Estatisticas |
+
+
+## Mobile
+| Nome                                | Finalidade               |
+| ---- | ---- |
+|[RealmDb](https://realm.io/)| Code First |

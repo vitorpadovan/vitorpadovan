@@ -22,7 +22,6 @@
 
 
 # Documentação de APIs
-
 | Nome | Finalidade |
 | --- | ---- |
 | [Doxygen](https://www.doxygen.nl/) | Documentação de API | 
