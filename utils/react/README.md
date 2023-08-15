@@ -1,5 +1,3 @@
-# Utils
-
 # React
 
 ## Libs
