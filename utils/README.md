@@ -56,6 +56,8 @@
 - [Transition.CSS](https://www.transition.style/)
 - [Commons BeanUtils](https://commons.apache.org/proper/commons-beanutils/)
 - [Best way to update multiple fields of a Java object](https://stackoverflow.com/questions/8512214/best-way-to-update-multiple-fields-of-a-java-object)
+- [SQLDM](https://sqldbm.com/)
+- [BrandCrowd](https://www.brandcrowd.com/)
 
 ## VSCode Extensions
 
