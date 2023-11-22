@@ -77,3 +77,14 @@ and s.piece = 1
 ```sql
 alter system kill session '189,6139' /* l.session_id||','||v.serial# sid_serial, do primeiro select*/;
 ```
+
+### Select para get user do oracle
+```
+	SELECT
+	sys_context( 'userenv', 'current_schema' ) AS SCHEMA,
+	sys_context( 'userenv', 'HOST' ) AS HOSTNAME,
+	sys_context( 'userenv', 'IP_ADDRESS') AS IPADDRESS,
+	sys_context( 'userenv', 'OS_USER') AS OSUSER
+FROM
+	dual;
+```
