@@ -9,10 +9,11 @@
 :books: I’m currently learning more Flutter, Angular and Java Spring.
 
 ## About me
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/vitorpadovan/vitorpadovan)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vhpadovan/)
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dotnet,eclipse,flutter,git,github,gitlab,html,java,materialui,mysql,nextjs,postgres,rabbitmq,react,spring,visualstudio,tailwind,sentry)](https://skillicons.dev)
 
 [Portfolio](https://vitorpadovan.com.br/)
 
