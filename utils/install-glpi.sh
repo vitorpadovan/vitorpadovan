@@ -13,4 +13,10 @@ apt-get install php-dom -y;
 apt-get install php-xml -y;
 apt-get install php-curl -y;
 apt-get install php-gd -y;
+apt-get update -y;
+apt-get upgrade -y;
+add-apt-repository ppa:ondrej/php 
+apt-get update -y;
+apt-get upgrade -y;
+apt-get install php8.1-intl
 systemctl restart apache2.service
