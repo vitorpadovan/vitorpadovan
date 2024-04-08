@@ -1,5 +1,5 @@
 #/bin/sh
-#wget https://raw.githubusercontent.com/vitorpadovan/vitorpadovan/main/utils/install-glpi.sh
+#wget --no-cache https://raw.githubusercontent.com/vitorpadovan/vitorpadovan/main/utils/install-glpi.sh
 wget https://github.com/glpi-project/glpi/releases/download/10.0.14/glpi-10.0.14.tgz
 tar -xvzf glpi-10.0.14.tgz
 cd $(pwd)/glpi
