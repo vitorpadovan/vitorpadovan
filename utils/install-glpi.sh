@@ -5,7 +5,6 @@ tar -xvzf glpi-10.0.14.tgz
 cd $(pwd)/glpi
 rm -rf /var/www/html/*
 mv * /var/www/html
-rm /var/www/html/index.html
 apt-get install php -y;
 apt-get install php-mysql -y;
 apt-get install php-dom -y;
